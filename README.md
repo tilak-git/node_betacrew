@@ -3,12 +3,15 @@
     ```bash
     $ git clone https://github.com/tilak-git/node_betacrew.git
     ```
-    
-3. **Start server**
+3. **Navigate to the Project Directory**
+    ```bash
+    $ cd node_betacrew
+    ```
+4. **Start server**
     ```bash
     $ npm run server
     ```
-4. **Start node client**
+5. **Start node client**
     ```bash
     $ npm run client
     ```
